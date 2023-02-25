@@ -7,7 +7,7 @@ About myself:
 - 🌱 I’m currently learning concepts related to quantum computation and physical implementations of quantum technologies (mainly ion traps and superconducting qubits).
 - 👯 I’m looking to collaborate on projects regarding quantum algorithms and other quantum related simulations.
 - :thought_balloon: I'm very interested in topics like multipartite entanglement :link:, quantum chaos :sparkler: and quantum thermodynamics :fire:.
-- 💬 Ask me about any of the projects in my repositories, I'll be happy to discuss about the results or procedures in there!
+- 💬 Ask me about any of the projects in my repositories, I'll be happy to discuss about the results or procedures in here!
 - 😄 Pronouns: he/him
 
 <!--
